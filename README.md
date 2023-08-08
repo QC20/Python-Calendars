@@ -21,3 +21,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Acknowledgments
 - The calendar module from the Python standard library is used to generate the calendar.
 - The Tkinter library provides the GUI framework for the widget.
+
+## Contact
+For any questions or suggestions, please feel free to contact injkjwetrust@gmail.com.
