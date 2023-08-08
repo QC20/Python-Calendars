@@ -14,3 +14,6 @@ This script has the following dependencies:
 - Tkinter library
 
 If you don't have Python installed, you can download it from the official website: [Python.org](https://www.python.org/downloads/)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
