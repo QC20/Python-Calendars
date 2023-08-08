@@ -12,6 +12,18 @@ This is a simple calendar widget implemented in Python using the Tkinter library
 ## Usage
 To use this calendar widget, you need to have Python installed on your system. Additionally, the Tkinter library is required, which is usually included with Python installations.
 
+1. Run the script:
+
+   ```shell
+   python calendar_widget.py
+
+Once the script is running, a window will appear displaying the calendar widget.
+
+The top section of the window shows the current date and time.
+A greeting message is displayed based on the time of day.
+The main section of the window displays the calendar for the current month.
+Navigation buttons labeled "Previous" and "Next" allow you to move to the calendar of the previous and next months, respectively.
+
 ## Dependencies
 This script has the following dependencies:
 
