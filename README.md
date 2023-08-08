@@ -17,3 +17,7 @@ If you don't have Python installed, you can download it from the official websit
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Acknowledgments
+- The calendar module from the Python standard library is used to generate the calendar.
+- The Tkinter library provides the GUI framework for the widget.
