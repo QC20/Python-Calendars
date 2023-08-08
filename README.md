@@ -5,9 +5,7 @@ As creating a calendar script in Python is almost a rite of passage, I wanted to
 This repository contains two Python calendar scripts. The first script displays the current month's calendar in the terminal. The second script is a GUI calendar widget with navigation buttons to view the previous and next months.
 
 # Calendar Widget
-
 This is a simple calendar widget implemented in Python using the Tkinter library. It displays the current date and time, along with a greeting based on the time of day. It also provides navigation buttons to view the calendar of the previous and next months.
-
 
 ## Usage
 To use this calendar widget, you need to have Python installed on your system. Additionally, the Tkinter library is required, which is usually included with Python installations.
